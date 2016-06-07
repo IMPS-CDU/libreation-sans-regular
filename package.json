@@ -1,0 +1,19 @@
+{
+  "name": "sherpa",
+  "version": "1.0.0",
+  "description": "Third-party libraries and dependencies for PhET Simulations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMPS-CDU/sherpa.git"
+  },
+  "author": "Jonathan Olson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IMPS-CDU/sherpa/issues"
+  },
+  "homepage": "https://github.com/IMPS-CDU/sherpa#readme"
+}
